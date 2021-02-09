@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Urmil/OneDrive/Education/University/Work/Digital_Systems/Labs/Lab_4/Part_3
+vcircuit
+Z1 !s110 1570998609
+!i10b 1
+!s100 ?=zU;UBFZgEIPVFZ0=Kc;0
+Ioil4@eZIXQSXEEJeCn7SM2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1570488973
+Z4 8main.v
+Z5 Fmain.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1570998608.000000
+Z8 !s107 main.v|
+Z9 !s90 main.v|
+!i113 1
+Z10 tCvgOpt 0
+vexample1
+!s110 1571000138
+!i10b 1
+!s100 8WW3f9553fBJ^>bhEBbXN3
+I>4jGjOO@4jcj9^ll2OfW?2
+R2
+R0
+w1571000135
+8f.v
+Ff.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1571000138.000000
+!s107 f.v|
+Z11 !s90 f.v|
+!i113 1
+R10
+vflipflop
+R1
+!i10b 1
+!s100 ;NQ;2aGl^2b<_zYM@A9Ll3
+IRKREC3]DIHKcSP]FN<EAd0
+R2
+R0
+R3
+R4
+R5
+L0 75
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vmain
+R1
+!i10b 1
+!s100 HDVZW8b8kWzEZ3kcYPfY=1
+IcdFThEZ5BK4jaV6Z9;H;?1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vmux2to1
+R1
+!i10b 1
+!s100 kGYja0fT@^V@O]KEW2;ML2
+Ik=JLW;Bn=1cnLBRfo:GWU0
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsubcircuit
+R1
+!i10b 1
+!s100 X1a5oK:L99CGPC;jJV`N?0
+IH7m3oJ;W8i:DCj_[g3N9G3
+R2
+R0
+R3
+R4
+R5
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsubcircuit_left
+R1
+!i10b 1
+!s100 QRgEChec0SZGdh9kMCcO63
+IR]=Iz_>C_Ui`@P;R0?JkL2
+R2
+R0
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vxora
+Z12 !s110 1571083882
+!i10b 1
+!s100 LEZ2O_hU067LGLNFYdS>R0
+I@VG;7PmfD1jWM5lC3T^Uc1
+R2
+R0
+Z13 w1571083875
+8f.v
+Ff.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1571083882.000000
+Z15 !s107 f.v|
+R11
+!i113 1
+R10
+vxorb
+R12
+!i10b 1
+!s100 h_BZR9Po8?VA5]@AG3]8D0
+IoHB7P=JRA=VFUVUJK=N]S1
+R2
+R0
+R13
+8f.v
+Ff.v
+L0 12
+R6
+r1
+!s85 0
+31
+R14
+R15
+R11
+!i113 1
+R10
+vxorc
+R12
+!i10b 1
+!s100 MA00ohE`=Vo`iReWP1WE_3
+Io=0T7RlOXT6lb9kbIaFh82
+R2
+R0
+R13
+8f.v
+Ff.v
+L0 19
+R6
+r1
+!s85 0
+31
+R14
+R15
+R11
+!i113 1
+R10
